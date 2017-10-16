@@ -2,7 +2,7 @@
 layout: page
 category: walkthrough
 title: Samples Tutorial
-is-detailed: false
+is-detailed: true
 quantity: 1
 section: **3.4**
 
@@ -28,7 +28,8 @@ Download the worksheet for this section here: <a href="2-0-samples-worksheet">Sa
 <a name="login"/>
 
 # 1. Logging in
-{% include logging_in.md %}
+
+{% include logging_in.md detailed=page.is-detailed %}
 
 <a name="receipt" href="#" id="toplink">top</a>
 

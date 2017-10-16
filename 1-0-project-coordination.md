@@ -20,6 +20,13 @@ Table of Contents
 </ol>
 </div>
 
+<a name="login"/>
+
+# 1. Logging in
+
+{% include logging_in.md detailed=page.is-detailed %}
+
+
 <div id="infobox">
 Download the worksheet for this section here: <a href="1-0-project-coordination-worksheet">Project coordination Worksheet</a>. 
 </div>

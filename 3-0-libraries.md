@@ -30,7 +30,8 @@ Download the worksheet for this section here: <a href="3-0-libraries-worksheet">
 
 # 1. Logging in
 
-{% include logging_in.md %}
+{% include logging_in.md detailed=page.is-detailed %}
+
 
 <a name="props1" href="#" id="toplink">top</a>
 

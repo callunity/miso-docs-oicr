@@ -3,6 +3,7 @@ layout: page
 category: walkthrough
 title: Administration tasks
 contact-admin: email gsi@oicr.on.ca or file a JIRA ticket in _GSI Common_
+is-detailed: true
 
 ---
 
@@ -21,7 +22,7 @@ Table of Contents
 
 # 1. Logging in
 
-{% include logging_in.md %}
+{% include logging_in.md detailed=page.is-detailed %}
 
 
 In order to perform the tasks in this section you must be a MISO admin.

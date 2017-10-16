@@ -1,4 +1,5 @@
-yout: page
+---
+layout: page
 category: walkthrough
 title: Libraries tutorial
 is-detailed: false
@@ -24,7 +25,7 @@ Table of Contents
 
 # 1. Logging in
 
-{% include logging_in.md %}
+{% include logging_in.md detailed=page.is-detailed %}
 
 <a name="props1" href="#" id="toplink">top</a>
 
