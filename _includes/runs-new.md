@@ -95,7 +95,7 @@ will be flagged.
 
 ## 5.2 Setting Per-Lane QCs
 Sometimes a particular lane is bad. MISO allows setting a per-lane QC. This does 
-_not_ prevent analysis. Contact {{ site.admin }} when a lane should not be analysed.
+_not_ prevent analysis. Contact {{ site.miso_admin }} when a lane should not be analysed.
 
 1. Go to your run page.
 1. Check the first run.
