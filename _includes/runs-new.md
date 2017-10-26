@@ -2,9 +2,9 @@
 
 # 3. Creating runs from scratch
 
-MISO supports runs from both Illumina and PacBio sequencers (and others), so 
-the terms used for instrument runs and associated libraries are intentionally 
-different from those used by the vendor.
+MISO supports runs from both Illumina and PacBio sequencers (and others that
+are no longer used at OICR), so the terms used for instrument runs and
+associated libraries are intentionally different from those used by the vendor.
 Every time a sequencer is loaded and sequencing begins,
 a _Run_ is created. Runs are picked up automatically from the instrument.
 A _Sequencing Container_ is the link between the library information and the

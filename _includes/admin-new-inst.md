@@ -8,7 +8,7 @@ runs that use them.
 ## 4.1 Add a new model of sequencer
 
 If MISO does not yet have this type of sequencer in the database, you will need
-to contact {{ site.miso_admin_contact }} to put the new model into MISO before you can 
+to contact your MISO administrator to put the new model into MISO before you can 
 add a new sequencer of that model.
 
 1. Please {{ site.miso_admin_contact }}  to add the new sequencer 
