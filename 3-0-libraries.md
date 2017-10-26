@@ -3,6 +3,7 @@ layout: page
 category: walkthrough
 title: Libraries tutorial
 is-detailed: true
+section: 2.1 or 2.2
 
 ---
 
@@ -84,7 +85,7 @@ indices at a particular plate location. Once the libraries are sorted based on t
 parent sample's location, the indices can be copy-pasted in the order that the 
 robot requires.
 
-{% include libraries-qc.md %}
+{% include libraries-qc.md detailed=page.is-detailed created-section=page.section %}
 
 <a name="boxes" href="#" id="toplink">top</a>
 

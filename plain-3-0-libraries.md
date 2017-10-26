@@ -3,6 +3,7 @@ layout: page
 category: walkthrough
 title: Libraries tutorial
 is-detailed: false
+section: "2.1"
 
 ---
 
@@ -45,7 +46,7 @@ inbox.
 
 {% include libraries-from-samples.md detailed=page.is-detailed %}
 
-{% include libraries-qc.md %}
+{% include libraries-qc.md created-section=page.section %}
 
 <a name="boxes" href="#" id="toplink">top</a>
 
